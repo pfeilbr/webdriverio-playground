@@ -1,5 +1,6 @@
 Playground to learn and experiment with the node webdriverio package 
 
+
 # Running Selenium Hub and Node(s) Using Docker
 
 1. start hub (clients connect to this)
