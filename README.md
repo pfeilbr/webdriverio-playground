@@ -26,4 +26,4 @@ var options = {
 };
 ```
 
-see [`index.js`]()
+see [`index.js`](index.js)
