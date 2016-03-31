@@ -1,5 +1,19 @@
-Playground to learn and experiment with the node webdriverio package 
+Playground to learn and experiment with the node webdriverio package
 
+# Running Selenium Standalone Server (Preferred / lighter weight)
+
+1. Start selenium Standalone server
+
+```sh
+# run the following in it's own shell and leave running
+$ java -jar selenium-server/selenium-server-standalone-2.53.0.jar
+```
+
+2. Run script
+
+```sh
+$ node index.js
+```
 
 # Running Selenium Hub and Node(s) Using Docker
 
